@@ -1,0 +1,8 @@
+form {
+  max-width: 250px;
+}
+
+.c-input {
+  display: flex;
+  flex-direction: column;
+}
